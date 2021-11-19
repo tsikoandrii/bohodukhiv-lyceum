@@ -6,7 +6,9 @@
       "@layouts/*": ["src/views/layouts/*"],
       "@pages/*": ["src/views/pages/*"],
       "@modules/*": ["src/views/modules/*"],
-      "@ui/*": ["src/views/ui/*"]
+      "@ui/*": ["src/views/ui/*"],
+      "@theme": ["src/views/theme/index.js"],
+      "@assets/*": ["src/assets/*"]
     }
   },
   "include": [
